@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Enzo\\TestZoco\\Forrajeria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|c:\\enzo\\testzoco\\forrajeria\\forrajeria\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\conexion_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\conexion_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capaaccesodatos\\cad_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311732D8-E2B6-45B8-AA96-49EE39192D8A}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\cad_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\capalogica\\cln_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B1E58-4B81-4F92-991C-18D9F0B6ABC6}|CapaLogica\\CapaLogicaNegocio.csproj|solutionrelative:capalogica\\cln_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\productos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\productos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|C:\\Enzo\\TestZoco\\Forrajeria\\forrajeria\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7387EBE-644D-4642-91D6-A4401B01592D}|Forrajeria\\CapaPresentacion.csproj|solutionrelative:forrajeria\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Usuarios.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Usuarios.cs",
+              "RelativeToolTip": "Forrajeria\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:17:33.028Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Clientes.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Clientes.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Clientes.cs",
+              "RelativeToolTip": "Forrajeria\\Clientes.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:23:24.717Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CAD_Carrito.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Carrito.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Carrito.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Carrito.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Carrito.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-30T16:20:28.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CAD_Login.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Login.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Login.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Login.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:30:58.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\FacturaForm.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\FacturaForm.cs",
+              "ToolTip": "C:\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\FacturaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\FacturaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:16:28.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Menu.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Menu.cs",
+              "ToolTip": "C:\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:55:41.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Productos.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Productos.cs",
+              "ToolTip": "C:\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T20:42:33.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cs [Design]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Carrito.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Carrito.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Carrito.cs [Design]",
+              "RelativeToolTip": "Forrajeria\\Carrito.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-23T16:57:51.079Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Carrito.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Carrito.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Carrito.cs",
+              "RelativeToolTip": "Forrajeria\\Carrito.cs",
+              "ViewState": "AQIAAOgBAAAAAAAAAAAgwMABAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-23T17:04:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Forrajeria\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Properties\\Settings.settings",
+              "RelativeToolTip": "Forrajeria\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-16T02:31:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Forrajeria\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Properties\\Resources.resx",
+              "RelativeToolTip": "Forrajeria\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-16T02:31:42.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Forrajeria\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:38.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CLN_Estadistica.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Estadistica.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Estadistica.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Estadistica.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Estadistica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CLN_Proveedor.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Proveedor.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Proveedor.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CLN_Clientes.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Clientes.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Clientes.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Clientes.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CLN_Acceso.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Acceso.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Acceso.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Acceso.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Acceso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:18.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Class1.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\Class1.cs",
+              "RelativeToolTip": "CapaLogica\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:15.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CAD_Clientes.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Clientes.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Clientes.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Clientes.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CLN_Carrito.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Carrito.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Carrito.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Carrito.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Carrito.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAYwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-23T17:10:01.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CAD_Estadistica.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Estadistica.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Estadistica.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Estadistica.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Estadistica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:01.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CLN_Productos.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Productos.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Productos.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Productos.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Productos.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T01:41:14.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:25:07.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CAD_Usuarios.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Usuarios.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Usuarios.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Usuarios.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:58:31.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Conexion_DB.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\Conexion_DB.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\Conexion_DB.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\Conexion_DB.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\Conexion_DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T14:12:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:16:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Proveedores.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Proveedores.cs",
+              "RelativeToolTip": "Forrajeria\\Proveedores.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAnwGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:39:14.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CAD_Productos.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Productos.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Productos.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Productos.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:30:05.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CAD_Proveedor.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\CAD_Proveedor.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaAccesoDatos\\CAD_Proveedor.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\CAD_Proveedor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:25:59.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Clientes.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Enzo Gonzalez\\source\\repos\\Forrajeria\\Forrajeria\\Forrajeria\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:16:20.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Menu.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Menu.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Menu.cs",
+              "RelativeToolTip": "Forrajeria\\Menu.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAIwOcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:56:04.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CLN_Usuarios.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\CLN_Usuarios.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\CapaLogica\\CLN_Usuarios.cs",
+              "RelativeToolTip": "CapaLogica\\CLN_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:09:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Productos.Designer.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Productos.Designer.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Productos.Designer.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Productos.Designer.cs",
+              "RelativeToolTip": "Forrajeria\\Productos.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:15:36.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Productos.cs",
+              "RelativeDocumentMoniker": "Forrajeria\\Productos.cs",
+              "ToolTip": "C:\\Enzo\\TestZoco\\Forrajeria\\Forrajeria\\Productos.cs",
+              "RelativeToolTip": "Forrajeria\\Productos.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwAoBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T00:51:22.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
